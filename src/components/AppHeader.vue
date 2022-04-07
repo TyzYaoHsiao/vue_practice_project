@@ -26,7 +26,8 @@ export default {
         { title: "Axios串API", to: "/axiosPractice" },
         { title: "slot插槽", to: "/slot" },
         { title: "Vuex", to: "/vuexPractice" },
-        { title: "Vue Router", to: "/vueRouterPractice" }
+        { title: "Vue Router", to: "/vueRouterPractice" },
+        { title: "Vue 3", to: "/vue3" }
       ],
     };
   },

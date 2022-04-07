@@ -15,6 +15,7 @@ import MessageA from "./pages/vueRouterPractice/MessageA"
 import MessageB from "./pages/vueRouterPractice/MessageB"
 import GuardA from "./pages/vueRouterPractice/GuardA"
 import GuardB from "./pages/vueRouterPractice/GuardB"
+import Vue3 from "./pages/Vue3"
 
 const routes = [
   { path: "/", component: Home, meta: {
@@ -26,6 +27,7 @@ const routes = [
   { path: "/axiosPractice", component: AxiosPractice },
   { path: "/slot", component: Slot },
   { path: "/vuexPractice", component: VuexPractice },
+  { path: "/vue3", component: Vue3 },
   {
     path: "/vueRouterPractice",
     component: VueRouterPractice,
